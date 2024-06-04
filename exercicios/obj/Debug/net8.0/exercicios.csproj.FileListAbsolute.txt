@@ -1,0 +1,15 @@
+C:\Users\vinicius.charleaux\Documents\GitHub\csharp-fundamentos\exercicios\bin\Debug\net8.0\exercicios.exe
+C:\Users\vinicius.charleaux\Documents\GitHub\csharp-fundamentos\exercicios\bin\Debug\net8.0\exercicios.deps.json
+C:\Users\vinicius.charleaux\Documents\GitHub\csharp-fundamentos\exercicios\bin\Debug\net8.0\exercicios.runtimeconfig.json
+C:\Users\vinicius.charleaux\Documents\GitHub\csharp-fundamentos\exercicios\bin\Debug\net8.0\exercicios.dll
+C:\Users\vinicius.charleaux\Documents\GitHub\csharp-fundamentos\exercicios\bin\Debug\net8.0\exercicios.pdb
+C:\Users\vinicius.charleaux\Documents\GitHub\csharp-fundamentos\exercicios\obj\Debug\net8.0\exercicios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vinicius.charleaux\Documents\GitHub\csharp-fundamentos\exercicios\obj\Debug\net8.0\exercicios.AssemblyInfoInputs.cache
+C:\Users\vinicius.charleaux\Documents\GitHub\csharp-fundamentos\exercicios\obj\Debug\net8.0\exercicios.AssemblyInfo.cs
+C:\Users\vinicius.charleaux\Documents\GitHub\csharp-fundamentos\exercicios\obj\Debug\net8.0\exercicios.csproj.CoreCompileInputs.cache
+C:\Users\vinicius.charleaux\Documents\GitHub\csharp-fundamentos\exercicios\obj\Debug\net8.0\exercicios.sourcelink.json
+C:\Users\vinicius.charleaux\Documents\GitHub\csharp-fundamentos\exercicios\obj\Debug\net8.0\exercicios.dll
+C:\Users\vinicius.charleaux\Documents\GitHub\csharp-fundamentos\exercicios\obj\Debug\net8.0\refint\exercicios.dll
+C:\Users\vinicius.charleaux\Documents\GitHub\csharp-fundamentos\exercicios\obj\Debug\net8.0\exercicios.pdb
+C:\Users\vinicius.charleaux\Documents\GitHub\csharp-fundamentos\exercicios\obj\Debug\net8.0\exercicios.genruntimeconfig.cache
+C:\Users\vinicius.charleaux\Documents\GitHub\csharp-fundamentos\exercicios\obj\Debug\net8.0\ref\exercicios.dll
