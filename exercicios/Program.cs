@@ -4,17 +4,17 @@
 
         public static void Main(string[] args){
         
-            // Exercicio1.escreveBoasVindas();
+            Exercicio1.escreveBoasVindas();
 
-            // Exercicio2.concatenaNomeSobrenome();
+            Exercicio2.concatenaNomeSobrenome();
 
-            // Exercicio3.fazOperacoesComDoisNumeros();s
+            Exercicio3.fazOperacoesComDoisNumeros();s
 
-            // Exercicio4.contaONumeroDeCaracteres();
+            Exercicio4.contaONumeroDeCaracteres();
 
-            // Exercicio5.verificaPlacaDeCarro();
+            Exercicio5.verificaPlacaDeCarro();
 
-             Exercicio6.dataAtual();
+            Exercicio6.dataAtual();
 
 
 
